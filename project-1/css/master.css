@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    color: rgb(163, 127, 81);
+}
+
+h1  {
+    color: rgb(163, 127, 81);
+    background-color: black;
+}
+
+img {
+    height: 150px;
+    text-align: left;
+}
+
+figcaption span {
+    font-size: 2em;
+}
+
+p #product-description {
+    margin: 20px 0 20px 0;
+    text-align: justify;
+}
+
+li div.qualities {
+    padding: 10px;
+    background-color: black;
+    margin: 20px 0 20px 0;
+}
